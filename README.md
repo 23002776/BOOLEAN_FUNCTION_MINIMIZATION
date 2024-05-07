@@ -41,10 +41,8 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 
 ```
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Developed by: Abinaya A
 
-Developed by:
-Abinaya A
 RegisterNumber:212223040003
 
 
